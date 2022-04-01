@@ -1,6 +1,6 @@
 # POWERSOURCE
 POWERSOURCE is a website that allows users to write and read reviews of energy drinks.
-![PLACEHOLDER IMAGE]()
+![logo](https://user-images.githubusercontent.com/83018530/161334422-b207b75d-d7e6-4f80-8402-c504bda05a22.png)
 
 
 
