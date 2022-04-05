@@ -1,3 +1,9 @@
 .header-logo{
-    width: 120px;
+    width: 100px;
+}
+body{
+    padding: 50px;
+}
+main{
+    margin-top: 120px;
 }
