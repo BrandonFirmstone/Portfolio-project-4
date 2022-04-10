@@ -14,9 +14,22 @@ footer{
     min-height: 100px;
     padding: 25px;
     width: 100vw;
-    background-color: gray;
+    background-color: whitesmoke;
     bottom: 0;
     position: absolute;
     text-align: center;
     display: flexbox;
+}
+
+.footer-logo{
+    width: 300px;
+}
+
+.footer-button{
+    width: 300px;
+    margin: 20px;
+}
+
+.body-wrapper{
+    margin: 20px;
 }
