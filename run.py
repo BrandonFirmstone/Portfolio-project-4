@@ -17,10 +17,6 @@ def about():
 def contact():
     return render_template("contact-us.html")
 
-@app.route("/policies")
-def policies():
-    return render_template("our-policies.html")
-
 @app.route("/drinks")
 def drinks():
     return render_template("all-drinks.html")
