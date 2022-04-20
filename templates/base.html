@@ -28,6 +28,17 @@
                     </li>
                 </ul>
             </div>
+            <div class="justify-content-end">
+                <div class="row">
+                    <div class="col-6">
+                        <button class="btn btn-primary">REGISTER</button>
+                    </div>
+                    <div class="col-6">
+                        <button class="btn btn-secondary">SIGN IN</button>
+                    </div>
+                </div>
+                
+            </div>
         </div>
     </nav>
     <div class="body-wrapper">     
@@ -41,13 +52,13 @@
             <div class="col">
                 <div class ="row justify-content-center">
                     <div class="col-sm-12 col-md-4">
-                        <a href="#">All Drinks</a>
+                        <a href="{{ url_for('index') }}">All Drinks</a>
                     </div>
                     <div class="col-sm-12 col-md-4">
-                        <a href="#">Contact Us</a>
+                        <a href="{{ url_for('contact') }}">Contact Us</a>
                     </div>
                     <div class="col-sm-12 col-md-4">
-                        <a href="#">About Us</a>
+                        <a href="{{ url_for('about') }}">About Us</a>
                     </div>
                 </div>
                 <div class="row">
