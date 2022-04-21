@@ -49,3 +49,6 @@ The following are features that are essential to the project:
 
 ## Testing
 
+# CI Information
+
+The code and the project management are split into two different repositories. Strange, I know. Initially I had started the project without Django, and started development using Flask and going that route. However, I realized the importance of using Django and decided to tidy everything up by moving the development to a fresh new repository. Yet another hurdle!
